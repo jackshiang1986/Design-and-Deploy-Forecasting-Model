@@ -1,5 +1,7 @@
 # Design and Deploy Forecasting Model
 
+This project serves as the Summative Assessment for module "Basic R Programming" of Professional Diploma in Data Science of Lithan Academy.
+
 ## Project Overview
 For this project the mtcars dataset will be used for the study. The data of mtcars is contained in a csv file. These data are derived car manufacturer information published by the Department of Transport. In this project, linear regression model will be utilized in both R program and Azure Machine Learning (AML) environment. The mtcars dataset contains 32 observations (rows) and 11 variables (columns), and the mpg is the dependent (target) variable for this project.
 
